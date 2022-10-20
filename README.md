@@ -1,3 +1,3 @@
 Command Line Interface
 
-Copyright © 2022
+Copyright © 2022 alfinkresna
