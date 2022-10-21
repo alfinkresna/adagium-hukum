@@ -1,0 +1,397 @@
+[
+{ 
+    "id" : 1,
+    "adagium" : "Absolute sentienfia expositore non indiget",
+    "arti" : "sebuah dalil yang sederhana tidak membutuhkan penjelasan lebih lanjut."
+},
+{
+    "id" : 2,
+    "adagium" : "Accipere quid ut justitiam focias non est team accipere quam exiorquere ",
+    "arti" : "menerima sesuatu sebagai imbalan untuk menegakkan keadilan lebih condong ke tindakan pemerasan, bukan hadiah."
+},
+{
+    "id" : 3,
+    "adagium" : "Adaequatio intellectus et rei",
+    "arti" : "adanya kesesuaian pikiran dengan objek. Prinsip ini pada dasarnya merupakan rambu-rambu dalam merumuskan materi hukum yang telah diterima secara universal."
+},
+{
+    "id" : 4,
+    "adagium" : "Audi et alteram partem atau audiatur et altera pars",
+    "arti" : "para pihak harus didengar. Apabila persidangan dimulai, hakim harus mendengar dari kedua belah pihak yang bersengketa, bukan hanya dari satu pihak saja."
+},
+{
+    "id" : 5,
+    "adagium" : "Bis de eadem re ne sit actio atau ne bis in idem",
+    "arti" : "perkara sama dan sejenis tidak boleh disidangkan untuk yang kedua kalinya."
+},
+{
+    "id" : 6,
+    "adagium" : "Clausula rebus sic stantibus",
+    "arti" : "perjanjian antarnegara masih tetap berlaku, apabila situasi dan kondisinya tetap sama."
+},
+{
+    "id" : 7,
+    "adagium" : "Cogitationis poenam nemo patitur",
+    "arti" : "tidak ada seorang pun dapat dihukum atas apa yang dipikirkannya."
+},
+{
+    "id" : 8,
+    "adagium" : "Cujus est dominium, ejus est periculum",
+    "arti" : "risiko atas suatu kepemilikkan ditanggung oleh pemilik."
+},
+{
+    "id" : 9,
+    "adagium" : "Culpae poena par esto",
+    "arti" : "hukuman harus setimpal dengan kejahatannya."
+},
+{
+    "id" : 10,
+    "adagium" : "Cum adsunt testimonia rerum, quid opus est verbist", 
+    "arti" : "saat ada bukti dari fakta-fakta, apa gunanya kata-kata?"
+},
+{
+    "id" : 11,
+    "adagium" : "Cum aliquis renunciaverit sociatati, solvitur societas",
+    "arti" : "saat rekan telah meninggalkan persekutuannya, maka persekutuan tersebut dinyatakan bubar."
+},
+{
+    "id" : 12,
+    "adagium" : "Da tua sunt, post mortem tune tua sunt",
+    "arti" : "berikanlah benda-benda kepunyaanmu saat kau masih memilikinya; setelah meninggal benda-benda tersebut bukan kepunyaanmu lagi."
+},
+{
+    "id" : 13,
+    "adagium" : "De gustibus non est disputandum", 
+    "arti" : "perihal selera tidak dapat disengketakan."
+},
+{
+    "id" : 14,
+    "adagium" : "Debet quis juri subjacere rrbi delinquit",
+    "arti" : "seseorang penggugat harus tunduk pada hukum yang berlaku di tempat dia mengajukan gugatan."
+},
+{
+    "id" : 15,
+    "adagium" : "Dormiunt aliquando leges, nunquam moriuntur",
+    "arti" : "hukum terkadang tidur, tetapi hukum tidak pernah mati."
+},
+{
+    "id" : 16,
+    "adagium": "Droil ne done, pluis que soit demaunde",
+    "arti" : "hukum memberi tidak lebih dari yang dibutuhkan."
+},
+{
+    "id" : 17,
+    "adagium" : "Ei incumbit probatio quidicit, nonqui negat",
+    "arti" : "beban pembuktian diberikan pada orang yang menggugat, bukan tergugat."
+},
+{
+    "id" : 18,
+    "adagium" : "Equality before the law",
+    "arti" : "semua orang sama di depan hukum."
+},
+{
+    "id" : 19,
+    "adagium" : "Equum et bonum est lex legum",
+    "arti" : "apa yang adil dan baik adalah hukumnya hukum."
+},
+{
+    "id" : 20,
+    "adagium" : "Facta sunt potentiora verbis",
+    "arti" : "perbuatan atau fakta lebih kuat dari kata-kata."
+},
+{
+    "id" : 21,
+    "adagium" : "Fiat justitia ruat coelum atau fiat justitia pereat mundus",
+    "arti" : "sekalipun esok langit akan runtuh, meski dunia akan musnah, atau walaupun harus mengorbankan kebaikan, keadilan harus tetap ditegakkan."
+},
+{
+    "id" : 22,
+    "adagium" : "Geen straf zonder schuld",
+    "arti" : "tiada hukum tanpa kesalahan."
+},
+{
+    "id" : 23,
+    "adagium" : "Gouverner c'est prevoi",
+    "arti" : "menjalankan pemerintahan berarti melihat ke depan dan menjalankan apa yang harus dilakukan."
+},
+{
+    "id" : 24,
+    "adagium" : "Heares est cadem persona cum antecessore",
+    "arti" : "ahli waris sama kedudukannya dengan pendahulunya."
+},
+{
+    "id" : 25,
+    "adagium" : "Het vermoeden van rechtmatigheid",
+    "arti" : "kebijakan pemerintah harus dianggap benar dan memiliki kekuatan hukum mengikat sampai dibuktikan sebaliknya."
+},
+{
+    "id" : 26,
+    "asagium" : "Ignorantia excusatur non juris sed facti",
+    "arti" : "ketidaktahuan akan fakta-fakta dapat dimaafkan, tapi tidak demikian halnya ketidaktahuan akan hukum."
+},
+{
+    "id" : 27,
+    "adagium" : "Ignorantia judicis est calanaitax innocentis",
+    "arti" : "ketidaktahuan hakim ialah suatu kerugian bagi pihak yang tidak bersalah."
+},
+{
+    "id" : 28,
+    "adagium" : "Ignorantia juris non excusat",
+    "arti" : "ketidaktahuan akan hukum tidak dimaafkan."
+},
+{
+    "id" : 29,
+    "adagium" : "Inde datae leges be fortior omnia posset",
+    "arti" : "hukum dibuat, jika tidak orang yang kuat akan mempunyai kekuasaan tidak terbatas."
+},
+{
+    "id" : 30,
+    "adagium" : "Iniquum est aliquem rei sui esse judicem",
+    "arti" : "adalah tidak adil bagi seseorang untuk diadili pada perkaranya sendiri."
+},
+{
+    "id" : 31,
+    "adagium" : "Interpretatio cessat in claris, interpretation est perversio",
+    "arti" : "jika teks atau redaksi UU telah jelas, maka tidak diperkenankan lagi menafsirkannya. Sebab, penafsiran terhadap kata-kata yang jelas berarti penghancuran."
+},
+{
+    "id" : 32,
+    "adagium" : "Interset reipublicae res judicatoas non rescindi",
+    "arti" : "adalah kepentingan negara bahwa suatu keputusan tidak dapat diganggu gugat."
+},
+{
+    "id" : 33,
+    "adagium" : "Iudex ne procedat ex officio",
+    "arti" : "hakim bersifat pasif menunggu datangnya tuntutan hak yang diajukan kepadanya."
+},
+{
+    "id" : 34,
+    "adagium" : "Iudex non ultra petita atau ultra petita non cognoscitur",
+    "arti" : "hakim hanya menimbang hal-hal yang diajukan para pihak dan tuntutan hukum yang didasarkan kepadanya."
+},
+{
+    "id" : 35,
+    "adagium" : "Ius curia novit",
+    "arti" : "seorang hakim dianggap tahu akan hukumnya."
+},
+{
+    "id" : 36,
+    "adagium" : "Judex debet judicare secundum allegata et probata",
+    "arti" : "seorang hakim harus memberikan penilaian berdasarkan fakta-fakta dan pernyataan."
+},
+{
+    "id" : 37,
+    "adagium" : "Judex herbere debet duos sales, salem sapientiae, ne sit insipidus, et salem conscientiae, ne sit diabolus",
+    "arti" : "seorang hakim harus mempunyai dua hal: suatu kebijakan, kecuali dia bodoh; dan hati nurani, kecuali dia mempunyai sifat yang kejam."
+},
+{
+    "id": 38,
+    "adagium" : "Judex non potest esse testis in propria causa",
+    "arti" : "seorang hakim tidak dapat menjadi seorang saksi dalam perkaranya sendiri."
+},
+{
+    "id" : 39,
+    "adagium" : "Judex non reddit plus quam quod petens ipsse requirit means",
+    "arti" : "seorang hakim tidak memberikan permintaan lebih banyak dari si penuntut."
+},
+{
+    "id" : 40,
+    "adagium" : "Judex set lex laguens",
+    "arti" : "hakim ialah hukum yang berbicara."
+},
+{
+    "id" : 41,
+    "adagium" : "Judicandum est legibus non exemplis",
+    "arti" : "putusan hakim harus berdasarkan hukum, bukan berdasarkan contoh. Seorang hakim tidak dibatasi untuk menjelaskan penilaian atau putusannya sendiri."
+},
+{
+    "id" : 42,
+    "adagium" : "Judicia poxteriora sunt in lege fortiora",
+    "arti" : "keputusan terakhir ialah yang terkuat di mata hukum."
+},
+{
+    "id" : 43,
+    "adagium" : "Juramentum est indivisinle, et non est admittendum in partly true and partly falsum",
+    "arti" : "sebuah sumpah tidak dapat dibagi; sumpah tersebut tidak dapat diterima jika sebagiannya benar dan sebagian lagi salah."
+},
+{
+    "id" : 44,
+    "adagium" : "Jurare eat deum in testem vocare et est actus divini cultus",
+    "arti" : "memberikan sumpah ialah sama halnya dengan memanggil Tuhan sebagai saksi, bagian dari keagamaan."
+},
+{
+    "id" : 45,
+    "adagium" : "Juris quidem ignorantium cuique nocere, facti verum ignorantiam non nocere",
+    "arti" : "pengabaian terhadap hukum akan merugikan semua orang; tetapi pengabaian terhadap fakta tidak."
+},
+{
+    "id" : 46,
+    "adagium" : "Justitiae non est neganda, non differenda",
+    "arti" : "keadilan tidak dapat disangkal atau ditunda."
+},
+{
+    "id" : 47,
+    "adagium" : "Lex dura sed ita scripta", 
+    "arti" : "hukum adalah keras tetapi harus ditegakkan."
+},
+{
+    "id" : 48,
+    "adagium" : "Lex dura, sed tamen scripta",
+    "arti" : "hukum memang kejam, tetapi begitulah yang tertulis."
+},
+{
+    "id" : 49,
+    "adagium" : "Lex neminem cigit ad impossibilia",
+    "arti" : "hukum tidak memaksakan seseorang untuk melakukan sesuatu yang tidak mungkin."
+},
+{
+    "id" : 50,
+    "adagium" : "Lex nemini operatur iniquum, neminini facit injuriam", 
+    "arti" : "hukum tidak memberikan ketidakadilan kepada siapa pun dan tidak melakukan kesalahan kepada siapa pun."
+},
+{
+    "id" : 51,
+    "adagium" : "Lex posterior derogat legi priori atau lex posteriori derogat legi anteriori", 
+    "arti" : "hukum (undang-undang) yang baru menyampingkan undang-undang yang lama."
+},
+{
+    "id" : 52,
+    "adagium" : "Lex prospicit, non respicit", 
+    "arti" : "hukum melihat ke depan, bukan ke belakang."
+},
+{
+    "id" : 53,
+    "adagium" : "Lex rejicit superflua, pugnantia, incongrua", 
+    "arti" : "hukum menolak hal yang bertentangan dan tidak layak."
+},
+{
+    "id" : 54,
+    "adagium" : "Lex semper dabit remedium", 
+    "arti" : "hukum selalu memberikan solusi."
+},
+{
+    "id" : 55,
+    "adagium" : "Lex specialis derogat lex generali",
+    "arti" : "hukum yang spesifik harus didahulukan daripada hukum yang umum."
+},
+{
+    "id" : 56,
+    "adagium" : "Lex superior derogat legi inferiori",
+    "arti" : "hukum yang lebih tinggi menyampingkan undang-undang yang lebih rendah tingkatannya."
+},
+{
+    "id" : 57,
+    "adagium" : "Moneat lex, priusquam feriat", 
+    "arti" : "undang-undang harus disosialisasikan terlebih dahulu sebelum digunakan."
+},
+{
+    "id" : 58,
+    "adagium" : "Nemo judex in causa sua", 
+    "arti" : "hakim tidak boleh mengatur atau mengadili dirinya sendiri."
+},
+{
+    "id" : 59,
+    "adagium" : "Nemo plus juris transferre potest quam ipse habet", 
+    "arti" : "tidak seorang pun dapat mengalihkan lebih banyak haknya daripada yang ia miliki."
+},
+{
+    "id" : 60,
+    "adagium" : "Nullum delictum noela poena sine praevia lege poenali",
+    "arti" : "suatu aturan hukum tidak bisa diterapkan terhadap suatu peristiwa yang timbul sebelum aturan hukum yang mengatur tentang peristiwa itu dibuat."
+},
+{
+    "id" : 61,
+    "adagium" : "Opinio necessitatis", 
+    "arti" : "keyakinan atas sesuatu menurut hukum adalah perlu sebagai syarat untuk timbulnya hukum kebiasaan."
+},
+{
+    "id" : 62,
+    "adagium" : "Pacta sunt servanda", 
+    "arti" : "setiap perjanjian itu mengikat para pihak dan harus ditaati dengan iktikad baik."
+},
+{
+    "id" : 63,
+    "adagium" : "Politiae legius non leges politii adoptandae", 
+    "arti" : "politik harus tunduk pada hukum, bukan sebaliknya."
+},
+{
+    "id" : 64,
+    "adagium" : "Presumptio iures de iure", 
+    "arti" : "semua orang dianggap tahu hukum. Dikenal juga sebagai asas fiksi hukum."
+},
+{
+    "id" : 65,
+    "adagium" : "Presumpito iustae causa", 
+    "arti" : "suatu keputusan pemerintahan dianggap absah sampai ada putusan hakim berkekuatan hukum mengikat yang menyatakan sebaliknya."
+},
+{
+    "id" : 66,
+    "adagium" : "Presumption of innocence", 
+    "arti" : "asas praduga tidak bersalah: seseorang dianggap tidak bersalah sebelum ada putusan hakim yang menyatakan ia bersalah dan putusan hakim tersebut telah mempunyai kekuatan tetap."
+},
+{
+    "id" : 67,
+    "adagium" : "Quiquid est in territorio, etiam est de territorio",
+    "arti" : "asas dalam hukum internasional yang menyatakan bahwa apa yang berada dalam batas-batas wilayah negara tunduk kepada hukum negara itu."
+},
+{
+    "id" : 68,
+    "adagium" : "Res nullius credit occupanti", 
+    "arti" : "benda yang ditelantarkan oleh pemiliknya bisa diambil atau dimiliki."
+},
+{
+    "id" : 69,
+    "adagium" : "Salus populi suprema lex", 
+    "arti" : "kemakmuran dan kesejahteraan rakyat adalah hukum yang tertinggi dalam suatu negara."
+},
+{
+    "id" : 70,
+    "adagium" : "Similia similibus",
+    "arti" : "dalam perkara yang sama, harus diputus dengan hal yang sama pula, tidak pilih kasih."
+},
+{
+    "id" : 71,
+    "adagium" : "Spreekhuis van de wet",
+    "arti" : "apa kata undang-undang itulah hukumnya."
+},
+{
+    "id" : 72,
+    "adagium" : "Summum ius summa injuria, summa lex, summa crux", 
+    "arti" : "hukum yang keras dapat melukai, kecuali keadilan yang dapat menolongnya."
+},
+{
+    "id" : 73,
+    "adagium" : "Testimonium de auditu", 
+    "arti" : "kesaksian yang didengar dari orang lain."
+},
+{
+    "id" : 74,
+    "adagium" : "Ubi jus ibi remedium", 
+    "arti" : "di mana ada hak, di sana ada kemungkinan menuntut, memperolehnya, atau memperbaikinya jika hak tersebut dilanggar."
+},
+{
+    "id" : 75,
+    "adagium" : "Ubi societas, ibi jus",
+    "arti" : "di mana ada masyarakat, di situ ada hukum."
+},
+{
+    "id" : 76,
+    "adagium" : "Ut sementem faceris ita metes",
+    "arti" : "siapa yang menanam sesuatu dia yang akan memetik hasilnya."
+},
+{
+    "id" : 77,
+    "adagium" : "Van rechtswege nieting; null and void",
+    "arti" : "suatu proses peradilan yang dilakukan tidak menurut hukum adalah batal demi hukum."
+},
+{
+    "id" : 78,
+    "adagium" : "Volenti non fit iniuria; nulla iniuria est, quae in volentem fiat",
+    "arti" : "tidak ada ketidakadilan yang dilakukan kepada seseorang yang menginginkan hal itu dilakukan."
+},
+{
+    "id" : 79,
+    "adagium" : "Vox populi vox dei",
+    "arti" : "suara rakyat adalah suara Tuhan."
+}
+]
